@@ -27,15 +27,4 @@ The generated animation is saved as:
 
 `matrix_multiplication.gif`
 
-## Technologies Used
 
-- Python 3
-- Matplotlib
-- Pillow
-
-## How to Run
-
-### Producer-Consumer Problem
-
-```bash
-python producer_consumer.py
